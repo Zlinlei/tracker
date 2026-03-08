@@ -214,6 +214,7 @@ http://177.172.67.94:6969/announce
 http://177.173.31.33:6969/announce
 http://177.188.141.137:6969/announce
 http://177.188.141.175:6969/announce
+http://177.188.141.28:6969/announce
 http://177.188.141.32:6969/announce
 http://177.215.65.176:6969/announce
 http://177.215.65.40:6969/announce
@@ -1107,6 +1108,7 @@ http://tracker.encrypted-data.xyz:1337/announce
 http://tracker.enitin.xyz/announce
 http://tracker.etree.org:6969/announce
 http://tracker.ex.ua/announce
+http://tracker.exe.in.th:6969/announce
 http://tracker.fansub.id/announce
 http://tracker.fdn.fr:6969/announce
 http://tracker.file09.com/announce
@@ -1613,6 +1615,7 @@ https://tracker.moeking.me/announce
 https://tracker.monikadesign.uk/announce
 https://tracker.moxing.party:6969/announce
 https://tracker.nanoha.org/announce
+https://tracker.nekomi.cn/announce
 https://tracker.netmap.top:8443/announce
 https://tracker.nitrix.me/announce
 https://tracker.novy.vip/announce
@@ -1853,6 +1856,7 @@ udp://177.172.67.247:6969/announce
 udp://177.172.67.94:6969/announce
 udp://177.173.31.33:6969/announce
 udp://177.188.141.175:6969/announce
+udp://177.188.141.28:6969/announce
 udp://177.188.141.32:6969/announce
 udp://177.215.65.176:6969/announce
 udp://177.215.65.40:6969/announce
