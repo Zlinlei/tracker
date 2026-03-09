@@ -376,6 +376,7 @@ http://200.170.109.125:6969/announce
 http://200.170.109.148:6969/announce
 http://200.170.109.89:6969/announce
 http://200.170.110.108:6969/announce
+http://200.170.110.114:6969/announce
 http://200.170.110.170:6969/announce
 http://200.170.113.35:6969/announce
 http://200.170.113.5:6969/announce
@@ -970,6 +971,7 @@ http://rotracker.ohys.net/announce
 http://rstracker.ohys.net/announce
 http://rt.optizone.ru/announce
 http://rt.tace.ru/announce
+http://s1124554.ha012.t.mydomain.zone/announce
 http://s926723.ha016.t.mydomain.zone/announce
 http://saltwood.top:6969/announce
 http://secure.pow7.com/announce
@@ -2015,6 +2017,7 @@ udp://200.168.117.55:6969/announce
 udp://200.170.109.125:6969/announce
 udp://200.170.109.148:6969/announce
 udp://200.170.110.108:6969/announce
+udp://200.170.110.114:6969/announce
 udp://200.170.110.170:6969/announce
 udp://200.170.113.35:6969/announce
 udp://200.170.113.5:6969/announce
