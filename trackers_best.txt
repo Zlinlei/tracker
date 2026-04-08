@@ -1,9 +1,9 @@
 http://125.227.79.123/announce
+http://1337.abcvg.info/announce
 http://34.94.213.23/announce
 http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
 http://bt02.nnm-club.cc:2710/announce
-http://grifon.info/announce
 http://i.bandito.org/announce
 http://irrenhaus.dyndns.dk/announce
 http://kinorun.com/announce
@@ -35,6 +35,7 @@ http://tracker.torrentino.com/announce
 http://tracker.trancetraffic.com/announce
 http://tracker.xfapi.top:6868/announce
 http://tracker.xfapi.top:7070/announce
+http://tracker.xfapi.top:9999/announce
 http://tracker.xn--djrq4gl4hvoi.top/announce
 http://tracker.zhuqiy.com/announce
 http://tracker.zhuqiy.top/announce
@@ -44,9 +45,10 @@ http://tracker3.torrentino.com/announce
 http://tracker4.torrentino.com/announce
 http://tracker5.torrentino.com/announce
 http://uatracker.net/announce
-http://www.ansktracker.net/announce
 http://www.siambt.com/announce
 http://www.yqzuji.com/announce
+https://bt.beatrice-raws.org/announce
+https://http1.torrust-tracker-demo.com/announce
 https://retracker.x2k.ru/announce
 https://retracker2.x2k.ru/announce
 https://sparkle.ghostchu-services.top/announce
@@ -400,6 +402,7 @@ udp://201.13.49.202:6969/announce
 udp://201.13.50.75:6969/announce
 udp://201.13.51.82:6969/announce
 udp://201.92.179.79:6969/announce
+udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
 udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
 udp://207.244.226.120:6969/announce
@@ -1088,6 +1091,7 @@ udp://tracker.moxing.party:6969/announce
 udp://tracker.msm8916.com:6969/announce
 udp://tracker.mywaifu.best:6969/announce
 udp://tracker.netmap.top:6969/announce
+udp://tracker.novaopcj.eu.org:6969/announce
 udp://tracker.nyaa.uk:6969/announce
 udp://tracker.nyaa.vc:6969/announce
 udp://tracker.ololosh.space:6969/announce
@@ -1107,7 +1111,6 @@ udp://tracker.riverarmy.xyz:6969/announce
 udp://tracker.sbsub.com:2710/announce
 udp://tracker.sharebro.in:6969/announce
 udp://tracker.shkinev.me:6969/announce
-udp://tracker.sigterm.xyz:6969/announce
 udp://tracker.silksa.co.za:6969/announce
 udp://tracker.skillindia.site:6969/announce
 udp://tracker.sktorrent.net:6969/announce
