@@ -4,7 +4,6 @@ http://34.94.213.23/announce
 http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
 http://bt02.nnm-club.cc:2710/announce
-http://bt02.nnm-club.info:2710/announce
 http://i.bandito.org/announce
 http://irrenhaus.dyndns.dk/announce
 http://kinorun.com/announce
@@ -20,7 +19,6 @@ http://t-backup.213891.xyz/announce
 http://thetracker.org/announce
 http://torrent.nwps.ws/announce
 http://torrent.ubuntu.com:6969/announce
-http://torrent.unix-ag.uni-kl.de/announce
 http://tr.nyacat.pw/announce
 http://tracker-udp.anirena.com/announce
 http://tracker.bittorrent.am/announce
@@ -46,9 +44,6 @@ http://tracker5.torrentino.com/announce
 http://uatracker.net/announce
 http://www.bitseduce.com/announce
 http://www.yqzuji.com/announce
-https://1337.abcvg.info/announce
-https://bt.beatrice-raws.org/announce
-https://colibri.parrot.run/announce
 https://http1.torrust-tracker-demo.com/announce
 https://retracker.x2k.ru/announce
 https://retracker2.x2k.ru/announce
@@ -792,6 +787,7 @@ udp://amigacity.xyz:6969/announce
 udp://anidex.moe:6969/announce
 udp://anzix.net:6969/announce
 udp://app.icon256.com:8000/announce
+udp://archive.torrentonline.cc:42069/announce
 udp://astrr.ru:6969/announce
 udp://astrra.space:6969/announce
 udp://auratorrent.pl:8089/announce
@@ -926,6 +922,7 @@ udp://npge.nprotect.com:6969/announce
 udp://ns-1.x-fins.com:6969/announce
 udp://ns3109441.mypdns.org:6969/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
+udp://obey.torrentonline.cc:42069/announce
 udp://odd-hd.fr:6969/announce
 udp://open-tracker.demonoid.ch:6969/announce
 udp://open.8a.is:6969/announce
@@ -1080,7 +1077,6 @@ udp://tracker.kmzs123.com:443/announce
 udp://tracker.kmzs123.tk:17272/announce
 udp://tracker.kuroy.me:5944/announce
 udp://tracker.lyretain.site:2710/announce
-udp://tracker.merded.xyz:8000/announce
 udp://tracker.mg64.net:2710/announce
 udp://tracker.mg64.net:6969/announce
 udp://tracker.mirrorbay.org:6969/announce
@@ -1182,6 +1178,7 @@ udp://vibe.sleepyinternetfun.xyz:1738/announce
 udp://vito-tracker.duckdns.org:6969/announce
 udp://wepzone.net:6969/announce
 udp://wg.mortis.me:6969/announce
+udp://whybother.torrentonline.cc:42069/announce
 udp://widemus.de:6969/announce
 udp://www.2600.com:6969/announce
 udp://www.eddie4.nl:6969/announce
