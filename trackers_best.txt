@@ -1,7 +1,5 @@
 http://125.227.79.123/announce
 http://216.144.239.90:6969/announce
-http://34.66.57.33:1337/announce
-http://34.66.57.33:2710/announce
 http://34.94.213.23/announce
 http://93.88.129.16/announce
 http://bt.beatrice-raws.org/announce
@@ -15,7 +13,7 @@ http://nagios.tks.sumy.ua/announce
 http://peersteers.org/announce
 http://retracker.gorcomnet.ru/announce
 http://retracker.joxnet.ru/announce
-http://shubt.net:2710/announce
+http://retracker.x2k.ru/announce
 http://siambit.com/announce
 http://t-backup.213891.xyz/announce
 http://thetracker.org/announce
@@ -24,7 +22,6 @@ http://torrent.ubuntu.com:6969/announce
 http://torrent.unix-ag.uni-kl.de/announce
 http://tr.nyacat.pw/announce
 http://tracker-udp.anirena.com/announce
-http://tracker.bittor.pw:1337/announce
 http://tracker.bittorrent.am/announce
 http://tracker.bt-chat.com/announce
 http://tracker.bt4g.com:2095/announce
@@ -38,7 +35,7 @@ http://tracker.trancetraffic.com/announce
 http://tracker.waaa.moe:6969/announce
 http://tracker.xfapi.top:6868/announce
 http://tracker.xfapi.top:7070/announce
-http://tracker.xiaoduola.xyz:6969/announce
+http://tracker.xfapi.top:9999/announce
 http://tracker.xn--djrq4gl4hvoi.top/announce
 http://tracker.zhuqiy.com/announce
 http://tracker.zhuqiy.top/announce
@@ -52,6 +49,7 @@ http://uatracker.net/announce
 http://www.bitseduce.com/announce
 http://www.wareztorrent.com/announce
 http://www.yqzuji.com/announce
+https://1337.abcvg.info/announce
 https://bt.beatrice-raws.org/announce
 https://retracker.x2k.ru/announce
 https://retracker2.x2k.ru/announce
@@ -66,10 +64,12 @@ https://tr2.trkb.ru/announce
 https://tracker.bt4g.com/announce
 https://tracker.kawaii.id/announce
 https://tracker.keepfrds.com/announce
+https://tracker.madtia.cc/announce
 https://tracker.manager.v6.navy/announce
 https://tracker.qingwapt.org/announce
 https://tracker.renfei.net/announce
 https://tracker.totheglory.im/announce
+https://tracker.yemekyedim.com/announce
 https://tracker.zhuqiy.com/announce
 https://tracker.zhuqiy.top/announce
 https://tracker1.520.jp/announce
@@ -656,6 +656,7 @@ udp://62.212.85.66:2710/announce
 udp://62.60.157.92:6969/announce
 udp://64.23.195.62:6969/announce
 udp://65.108.102.76:6969/announce
+udp://67.222.238.222:2010/announce
 udp://68.193.189.231:6969/announce
 udp://69.30.224.166:6969/announce
 udp://69.30.233.234:6969/announce
@@ -760,6 +761,7 @@ udp://83.6.231.164:6969/announce
 udp://83.6.231.203:6969/announce
 udp://83.6.233.63:6969/announce
 udp://84.54.51.78:6969/announce
+udp://85.121.5.80:6969/announce
 udp://85.17.19.180:80/announce
 udp://85.239.33.28:6969/announce
 udp://86.127.239.222:1234/announce
@@ -1180,7 +1182,6 @@ udp://tracker2.itzmx.com:6961/announce
 udp://tracker3.itzmx.com:6961/announce
 udp://tracker3.t-1.org:6969/announce
 udp://tracker4.itzmx.com:2710/announce
-udp://trackthis.cyber.pz.it:1337/announce
 udp://trl-zhuqiy.dgj055.icu:6969/announce
 udp://ts.populargamers.co.za:6969/announce
 udp://tsundere.pw:6969/announce
