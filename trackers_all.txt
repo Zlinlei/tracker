@@ -31,6 +31,7 @@ http://110.187.214.6:6969/announce
 http://110.187.215.166:6969/announce
 http://113.13.6.40:6969/announce
 http://113.13.7.124:6969/announce
+http://113.13.7.90:6969/announce
 http://113.16.153.249:6969/announce
 http://113.16.153.98:6969/announce
 http://113.16.155.111:6969/announce
@@ -3182,6 +3183,7 @@ udp://utracker.ghostchu-services.top:6969/announce
 udp://v1046920.hosted-by-vdsina.ru:6969/announce
 udp://v2.iperson.xyz:6969/announce
 udp://v6-tracker.0g.cx:6969/announce
+udp://v6.vito-tracker.space:6969/announce
 udp://v74853.hosted-by-vdsina.com:6969/announce
 udp://valakas.rollo.dnsabr.com:2710/announce
 udp://vibe.community:6969/announce
