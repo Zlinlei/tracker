@@ -1,6 +1,7 @@
 http://125.227.79.123/announce
+http://1337.abcvg.info/announce
 http://152.53.194.103:2710/announce
-http://93.88.129.16/announce
+http://216.144.239.90:6969/announce
 http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
 http://bt02.nnm-club.cc:2710/announce
@@ -45,7 +46,6 @@ http://tracker.swifte.space:2710/announce
 http://tracker.torrentino.com/announce
 http://tracker.trancetraffic.com/announce
 http://tracker.waaa.moe:6969/announce
-http://tracker.xn--djrq4gl4hvoi.top/announce
 http://tracker.zhuqiy.com/announce
 http://tracker.zhuqiy.dgj055.icu/announce
 http://tracker.zhuqiy.top/announce
@@ -61,6 +61,7 @@ https://retracker2.x2k.ru/announce
 https://t.213891.xyz/announce
 https://t.audiences.me/announce
 https://t.hdhome.org/announce
+https://torrent.opiums.eu/announce
 https://tr.kxmp.cf/announce
 https://tr.nyacat.pw/announce
 https://tr2.trkb.ru/announce
@@ -68,13 +69,11 @@ https://tracker.anibt.net/announce
 https://tracker.bt4g.com/announce
 https://tracker.isbigdick.cc.cd/announce
 https://tracker.keepfrds.com/announce
-https://tracker.manager.itislove.cz/announce
 https://tracker.manager.v6.navy/announce
 https://tracker.monikadesign.uk/announce
 https://tracker.qingwapt.org/announce
 https://tracker.renfei.net/announce
 https://tracker.totheglory.im/announce
-https://tracker.yemekyedim.com/announce
 https://tracker.zhuqiy.com/announce
 https://tracker.zhuqiy.top/announce
 udp://0205.uptm.ch:6969/announce
@@ -411,6 +410,7 @@ udp://1c.premierzal.ru:6969/announce
 udp://2.57.214.218:6969/announce
 udp://200.111.152.53:1337/announce
 udp://200.111.152.54:1337/announce
+udp://200.111.84.93:1337/announce
 udp://200.148.11.147:6969/announce
 udp://200.148.11.156:6969/announce
 udp://200.148.11.61:6969/announce
@@ -885,7 +885,6 @@ udp://cn.pcfreetime.com:6969/announce
 udp://coeus.torrentonline.cc:42069/announce
 udp://colivioo.com:6969/announce
 udp://commento.getblog.cn:6969/announce
-udp://concen.org:6969/announce
 udp://coppersurfer.tk:6969/announce
 udp://cutscloud.duckdns.org:6969/announce
 udp://d13bttrck.duckdns.org:6969/announce
@@ -1168,7 +1167,6 @@ udp://tracker.shkinev.me:6969/announce
 udp://tracker.sigterm.xyz:6969/announce
 udp://tracker.sktorrent.net:6969/announce
 udp://tracker.skyts.net:6969/announce
-udp://tracker.startwork.cv:1337/announce
 udp://tracker.swateam.org.uk:2710/announce
 udp://tracker.t-1.org:6969/announce
 udp://tracker.teambelgium.net:6969/announce
