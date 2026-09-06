@@ -7,8 +7,8 @@ http://216.144.239.90:6969/announce
 http://37.120.182.83/announce
 http://37.120.182.83:2710/announce
 http://37.60.249.217:6969/announce
+http://52.70.94.249/announce
 http://bt.beatrice-raws.org/announce
-http://bt.nnm-club.info:2710/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
 http://i.bandito.org/announce
@@ -25,6 +25,7 @@ http://siambit.com/announce
 http://siambit.org/announce
 http://supertracker.cc.cd/announce
 http://t-backup.213891.xyz/announce
+http://t.jaekr.sh:6969/announce
 http://t.nyaatracker.com/announce
 http://thetracker.org/announce
 http://torrent.mp3quran.net/announce
@@ -38,7 +39,6 @@ http://tracker.bittorrent.am/announce
 http://tracker.bt4g.com:2095/announce
 http://tracker.coppersurfer.site:2710/announce
 http://tracker.cubonegro.org/announce
-http://tracker.dm258.cn:7070/announce
 http://tracker.fansub.id/announce
 http://tracker.kmzs123.com/announce
 http://tracker.merded.xyz:8000/announce
@@ -48,8 +48,8 @@ http://tracker.openzim.org/announce
 http://tracker.privateseedbox.xyz:2710/announce
 http://tracker.torrentino.com/announce
 http://tracker.trancetraffic.com/announce
-http://tracker.waaa.moe:6969/announce
 http://tracker.xfapi.top:7070/announce
+http://tracker.xfapi.top:9999/announce
 http://tracker.zhuqiy.com/announce
 http://tracker.zhuqiy.dgj055.icu/announce
 http://tracker.zhuqiy.top/announce
@@ -60,22 +60,20 @@ http://tracker4.torrentino.com/announce
 http://tracker5.torrentino.com/announce
 https://1337.abcvg.info/announce
 https://337hhh.xyz/announce
-https://bt.beatrice-raws.org/announce
 https://edgev.duckdns.org/announce
 https://retracker.gorcomnet.ru/announce
+https://retracker.x2k.ru/announce
 https://retracker2.x2k.ru/announce
 https://t.213891.xyz/announce
 https://t.audiences.me/announce
 https://t.btcland.xyz/announce
 https://t.hdhome.org/announce
 https://tr.nyacat.pw/announce
-https://tr2.trkb.ru/announce
 https://tracker.bt4g.com/announce
 https://tracker.isbigdick.cc.cd/announce
 https://tracker.keepfrds.com/announce
 https://tracker.monikadesign.uk/announce
 https://tracker.onetracker.net/announce
-https://tracker.parrotlinux.org/announce
 https://tracker.qingwapt.org/announce
 https://tracker.renfei.net/announce
 https://tracker.totheglory.im/announce
@@ -101,6 +99,7 @@ udp://107.189.2.131:1337/announce
 udp://107.189.3.200:6969/announce
 udp://107.189.4.235:1337/announce
 udp://107.189.7.165:6969/announce
+udp://108.165.191.38:1337/announce
 udp://108.53.194.223:6969/announce
 udp://108.61.166.249:6969/announce
 udp://109.121.134.121:1337/announce
@@ -1091,7 +1090,6 @@ udp://torrent.tracker.durukanbal.com:6969/announce
 udp://torrent.ubuntu.com:6969/announce
 udp://torrentclub.online:1984/announce
 udp://torrentclub.online:54123/announce
-udp://torrentclub.space:6969/announce
 udp://torrentclub.tech:6969/announce
 udp://torrents.artixlinux.org:6969/announce
 udp://torrents.hikarinokiseki.com:6969/announce
@@ -1142,7 +1140,6 @@ udp://tracker.ducks.party:1984/announce
 udp://tracker.dump.cl:6969/announce
 udp://tracker.e-utp.net:6969/announce
 udp://tracker.eddie4.nl:6969/announce
-udp://tracker.edkj.club:6969/announce
 udp://tracker.etree.org:6969/announce
 udp://tracker.farted.net:6969/announce
 udp://tracker.fatkhoala.org:13710/announce
