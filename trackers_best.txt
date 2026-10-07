@@ -3,6 +3,7 @@ http://1337.abcvg.info/announce
 http://135.125.198.235/announce
 http://135.125.198.235:2710/announce
 http://172.245.168.134/announce
+http://216.144.239.90:6969/announce
 http://61.216.165.60/announce
 http://bluebird-hd.org/announce
 http://bt.beatrice-raws.org/announce
@@ -11,12 +12,14 @@ http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
 http://i.bandito.org/announce
 http://irrenhaus.dyndns.dk/announce
+http://kinorun.com/announce
 http://mediaclub.tv/announce
 http://mkfs.ru/announce
 http://nagios.tks.sumy.ua/announce
 http://open.demonii.si/announce
 http://opentracker.xyz/announce
 http://retracker.gorcomnet.ru/announce
+http://retracker.joxnet.ru/announce
 http://retracker.x2k.ru/announce
 http://siambit.com/announce
 http://siambit.org/announce
@@ -44,7 +47,6 @@ http://tracker.waaa.moe:6969/announce
 http://tracker.xfapi.top:6868/announce
 http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
-http://tracker.xn--djrq4gl4hvoi.top/announce
 http://tracker.zhuqiy.com/announce
 http://tracker.zhuqiy.dgj055.icu/announce
 http://tracker.zhuqiy.top/announce
@@ -68,6 +70,7 @@ https://retracker2.x2k.ru/announce
 https://t.213891.xyz/announce
 https://t.audiences.me/announce
 https://t.btcland.xyz/announce
+https://t.hdhome.org/announce
 https://tr-rh-zhuqiy.dgj055.icu/announce
 https://tr-zhuqiy-1.dgj055.icu/announce
 https://tr-zhuqiy-2.dgj055.icu/announce
@@ -79,6 +82,7 @@ https://tracker.keepfrds.com/announce
 https://tracker.monikadesign.uk/announce
 https://tracker.publictorrent.net/announce
 https://tracker.qingwa.pro/announce
+https://tracker.qingwapt.org/announce
 https://tracker.renfei.net/announce
 https://tracker.totheglory.im/announce
 https://tracker.zhuqiy.com/announce
@@ -912,6 +916,7 @@ udp://blokas.io:6969/announce
 udp://bobbialbano.com:6969/announce
 udp://brightstar.freeddns.org:6969/announce
 udp://bry-dell-htpc.freeddns.org:6969/announce
+udp://bt-tracker.de:6969/announce
 udp://bt.bontal.net:443/announce
 udp://bt.bontal.net:6969/announce
 udp://bt.ktrackers.com:6666/announce
