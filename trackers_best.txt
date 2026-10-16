@@ -3,6 +3,7 @@ http://1337.abcvg.info/announce
 http://135.125.198.235/announce
 http://135.125.198.235:2710/announce
 http://172.245.168.134/announce
+http://216.144.239.90:6969/announce
 http://93.88.129.16/announce
 http://bluebird-hd.org/announce
 http://bt.beatrice-raws.org/announce
@@ -53,6 +54,7 @@ http://tracker3.torrentino.com/announce
 http://tracker4.torrentino.com/announce
 http://tracker5.torrentino.com/announce
 https://1.tracker.eu.org/announce
+https://1337.abcvg.info/announce
 https://2.tracker.eu.org/announce
 https://3.tracker.eu.org/announce
 https://337hhh.xyz/announce
@@ -62,11 +64,13 @@ https://bt.beatrice-raws.org/announce
 https://burmese.app/announce
 https://ht.therarbg.to/announce
 https://retracker.gorcomnet.ru/announce
+https://retracker.x2k.ru/announce
 https://retracker2.x2k.ru/announce
 https://t.213891.xyz/announce
 https://t.audiences.me/announce
 https://t.btcland.xyz/announce
 https://t.hdhome.org/announce
+https://torrent.opiums.eu/announce
 https://tr-rh-zhuqiy.dgj055.icu/announce
 https://tr-zhuqiy-1.dgj055.icu/announce
 https://tr-zhuqiy-2.dgj055.icu/announce
@@ -1151,7 +1155,6 @@ udp://tracker.coppersurfer.tk:6969/announce
 udp://tracker.corpscorp.online:80/announce
 udp://tracker.cubonegro.org:1337/announce
 udp://tracker.cubonegro.org:80/announce
-udp://tracker.cubonegro.xyz:6969/announce
 udp://tracker.cuntflaps.me:6969/announce
 udp://tracker.cyberia.is:6969/announce
 udp://tracker.cynma.tv:6969/announce
