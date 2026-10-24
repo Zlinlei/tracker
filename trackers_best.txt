@@ -1,7 +1,9 @@
 http://125.227.79.123/announce
+http://1337.abcvg.info/announce
 http://135.125.198.235/announce
 http://135.125.198.235:2710/announce
 http://216.144.239.90:6969/announce
+http://93.88.129.16/announce
 http://bluebird-hd.org/announce
 http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
@@ -16,6 +18,7 @@ http://nagios.tks.sumy.ua/announce
 http://open.demonii.si/announce
 http://opentracker.xyz/announce
 http://retracker.gorcomnet.ru/announce
+http://retracker.joxnet.ru/announce
 http://retracker.x2k.ru/announce
 http://siambit.com/announce
 http://siambit.org/announce
@@ -23,7 +26,6 @@ http://t-backup.213891.xyz/announce
 http://t.nyaatracker.com/announce
 http://torrent.mp3quran.net/announce
 http://torrent.ubuntu.com:6969/announce
-http://torrent.unix-ag.uni-kl.de/announce
 http://tr.nyacat.pw/announce
 http://tracker-udp.anirena.com/announce
 http://tracker-zhuqiy.dgj055.icu/announce
@@ -57,7 +59,6 @@ https://337hhh.xyz/announce
 https://4.tracker.eu.org/announce
 https://5.tracker.eu.org/announce
 https://bt.beatrice-raws.org/announce
-https://burmese.app/announce
 https://ht.therarbg.to/announce
 https://retracker.gorcomnet.ru/announce
 https://retracker.x2k.ru/announce
@@ -475,7 +476,6 @@ udp://201.13.49.202:6969/announce
 udp://201.13.50.75:6969/announce
 udp://201.13.51.82:6969/announce
 udp://201.92.179.79:6969/announce
-udp://204.79.238.89.in-addr.arpa.manitu.net:6969/announce
 udp://207.241.226.111:6969/announce
 udp://207.241.231.226:6969/announce
 udp://207.244.226.120:6969/announce
@@ -1088,6 +1088,7 @@ udp://run-2.publictracker.xyz:6969/announce
 udp://run.publictracker.xyz:6969/announce
 udp://ryjer.com:6969/announce
 udp://saltwood.top:6969/announce
+udp://sanincode.com:6969/announce
 udp://santost12.xyz:6969/announce
 udp://sd-161673.dedibox.fr:6969/announce
 udp://seedpeer.net:6969/announce
