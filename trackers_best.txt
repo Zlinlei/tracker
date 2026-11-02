@@ -3,6 +3,7 @@ http://1337.abcvg.info/announce
 http://135.125.198.235/announce
 http://135.125.198.235:2710/announce
 http://216.144.239.90:6969/announce
+http://asiatorrent.giize.com:51413/announce
 http://bluebird-hd.org/announce
 http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
@@ -17,7 +18,6 @@ http://nagios.tks.sumy.ua/announce
 http://open.demonii.si/announce
 http://opentracker.xyz/announce
 http://retracker.gorcomnet.ru/announce
-http://retracker.joxnet.ru/announce
 http://retracker.x2k.ru/announce
 http://siambit.com/announce
 http://siambit.org/announce
@@ -29,7 +29,6 @@ http://torrent.unix-ag.uni-kl.de/announce
 http://tr.nyacat.pw/announce
 http://tracker-udp.anirena.com/announce
 http://tracker-zhuqiy.dgj055.icu/announce
-http://tracker.coppersurfer.site:2710/announce
 http://tracker.cubonegro.org/announce
 http://tracker.fansub.id/announce
 http://tracker.minglong.org:8080/announce
@@ -55,6 +54,7 @@ https://3.tracker.eu.org/announce
 https://337hhh.xyz/announce
 https://4.tracker.eu.org/announce
 https://5.tracker.eu.org/announce
+https://bt.beatrice-raws.org/announce
 https://gargoyleperch.de/announce
 https://ht.therarbg.to/announce
 https://retracker.gorcomnet.ru/announce
@@ -114,6 +114,7 @@ udp://110.187.214.29:6969/announce
 udp://110.187.214.6:6969/announce
 udp://110.187.215.166:6969/announce
 udp://111.90.151.241:6969/announce
+udp://113.17.153.236:6969/announce
 udp://114.55.113.60:6969/announce
 udp://116.202.177.184:6969/announce
 udp://116.202.49.58:6969/announce
@@ -1040,7 +1041,6 @@ udp://ns575949.ip-51-222-82.net:6969/announce
 udp://obey.torrentonline.cc:42069/announce
 udp://odd-hd.fr:6969/announce
 udp://open-tracker.demonoid.ch:6969/announce
-udp://open.8a.is:6969/announce
 udp://open.demonii.com:1337/announce
 udp://open.demonii.si:1337/announce
 udp://open.demonii.si:80/announce
@@ -1064,7 +1064,6 @@ udp://parag.rs:6969/announce
 udp://peerfect.org:6969/announce
 udp://play.aimisayo.com:6969/announce
 udp://pow7.com:80/announce
-udp://private.anonseed.com:6969/announce
 udp://psyco.fr:6969/announce
 udp://public.demonoid.ch:6969/announce
 udp://public.popcorn-tracker.org:6969/announce
@@ -1124,7 +1123,6 @@ udp://torrents.hikarinokiseki.com:6969/announce
 udp://torrenttracker.nwc.acsalaska.net:6969/announce
 udp://torrentvpn.club:6990/announce
 udp://tr.bangumi.moe:6969/announce
-udp://tr.btube3.com:2010/announce
 udp://tr.cili001.com:8070/announce
 udp://tr3.ysagin.top:2715/announce
 udp://tr4ck3r.duckdns.org:6969/announce
@@ -1155,7 +1153,6 @@ udp://tracker.cuntflaps.me:6969/announce
 udp://tracker.cyberia.is:6969/announce
 udp://tracker.cynma.tv:6969/announce
 udp://tracker.cypherpunks.ru:6969/announce
-udp://tracker.ddunlimited.net:6969/announce
 udp://tracker.deadorbit.nl:6969/announce
 udp://tracker.dev-null.rocks:6969/announce
 udp://tracker.dix.tf:6969/announce
@@ -1247,6 +1244,7 @@ udp://tracker.torrentbay.to:6969/announce
 udp://tracker.torrents.observer:80/announce
 udp://tracker.torrust-demo.com:6969/announce
 udp://tracker.trackarr.org:6969/announce
+udp://tracker.transfur.org:6969/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.umunu.ru:6969/announce
