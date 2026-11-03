@@ -3,7 +3,6 @@ http://1337.abcvg.info/announce
 http://135.125.198.235/announce
 http://135.125.198.235:2710/announce
 http://216.144.239.90:6969/announce
-http://asiatorrent.giize.com:51413/announce
 http://bluebird-hd.org/announce
 http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
@@ -39,6 +38,7 @@ http://tracker.publictorrent.net/announce
 http://tracker.torrentino.com/announce
 http://tracker.trancetraffic.com/announce
 http://tracker.waaa.moe:6969/announce
+http://tracker.xn--djrq4gl4hvoi.top/announce
 http://tracker.zhuqiy.com/announce
 http://tracker.zhuqiy.dgj055.icu/announce
 http://tracker.zhuqiy.top/announce
@@ -47,6 +47,7 @@ http://tracker2.torrentino.com/announce
 http://tracker3.torrentino.com/announce
 http://tracker4.torrentino.com/announce
 http://tracker5.torrentino.com/announce
+http://tracker810.xyz:11450/announce
 https://1.tracker.eu.org/announce
 https://1337.abcvg.info/announce
 https://2.tracker.eu.org/announce
@@ -71,15 +72,12 @@ https://tr.nyacat.pw/announce
 https://tr.torland.ga/announce
 https://tr2.trkb.ru/announce
 https://tracker-zhuqiy.dgj055.icu/announce
-https://tracker.cangku.moe/announce
-https://tracker.isbigdick.cc.cd/announce
 https://tracker.keepfrds.com/announce
 https://tracker.monikadesign.uk/announce
 https://tracker.publictorrent.net/announce
 https://tracker.qingwa.pro/announce
 https://tracker.qingwapt.org/announce
 https://tracker.renfei.net/announce
-https://tracker.totheglory.im/announce
 https://tracker.zhuqiy.com/announce
 https://tracker.zhuqiy.top/announce
 udp://0205.uptm.ch:6969/announce
@@ -251,6 +249,7 @@ udp://177.144.178.170:6969/announce
 udp://177.144.178.39:6969/announce
 udp://177.16.198.108:6969/announce
 udp://177.16.198.58:6969/announce
+udp://177.16.198.72:6969/announce
 udp://177.172.61.249:6969/announce
 udp://177.172.61.26:6969/announce
 udp://177.172.61.33:6969/announce
@@ -1064,6 +1063,7 @@ udp://parag.rs:6969/announce
 udp://peerfect.org:6969/announce
 udp://play.aimisayo.com:6969/announce
 udp://pow7.com:80/announce
+udp://private.anonseed.com:6969/announce
 udp://psyco.fr:6969/announce
 udp://public.demonoid.ch:6969/announce
 udp://public.popcorn-tracker.org:6969/announce
@@ -1162,6 +1162,7 @@ udp://tracker.doko.moe:6969/announce
 udp://tracker.dorcus.digital:1337/announce
 udp://tracker.ducks.party:1984/announce
 udp://tracker.dump.cl:6969/announce
+udp://tracker.dutchtracking.com:6969/announce
 udp://tracker.e-utp.net:6969/announce
 udp://tracker.eddie4.nl:6969/announce
 udp://tracker.encrypted-data.xyz:1337/announce
