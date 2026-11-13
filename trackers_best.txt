@@ -3,12 +3,13 @@ http://1337.abcvg.info/announce
 http://135.125.198.235/announce
 http://135.125.198.235:2710/announce
 http://216.144.239.90:6969/announce
-http://93.88.129.16/announce
+http://bluebird-hd.org/announce
 http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
 http://i.bandito.org/announce
+http://irrenhaus.dyndns.dk/announce
 http://kinorun.com/announce
 http://mediaclub.tv/announce
 http://mkfs.ru/announce
@@ -33,7 +34,6 @@ http://tracker.fansub.id/announce
 http://tracker.minglong.org:8080/announce
 http://tracker.openzim.org/announce
 http://tracker.privateseedbox.xyz:2710/announce
-http://tracker.publictorrent.net/announce
 http://tracker.torrentino.com/announce
 http://tracker.trancetraffic.com/announce
 http://tracker.waaa.moe:6969/announce
@@ -52,7 +52,6 @@ http://tracker4.torrentino.com/announce
 http://tracker5.torrentino.com/announce
 https://1.tracker.eu.org/announce
 https://1337.abcvg.info/announce
-https://2.tracker.eu.org/announce
 https://3.tracker.eu.org/announce
 https://337hhh.xyz/announce
 https://4.tracker.eu.org/announce
@@ -840,6 +839,7 @@ udp://83.6.231.164:6969/announce
 udp://83.6.231.203:6969/announce
 udp://83.6.233.63:6969/announce
 udp://84.54.51.78:6969/announce
+udp://85.121.148.217:2710/announce
 udp://85.121.5.80:6969/announce
 udp://85.17.19.180:80/announce
 udp://85.17.55.112:6969/announce
