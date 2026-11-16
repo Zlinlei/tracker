@@ -9,6 +9,7 @@ http://bt.beatrice-raws.org/announce
 http://bt.nnm-club.info:2710/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
+http://buny.uk:6969/announce
 http://i.bandito.org/announce
 http://irrenhaus.dyndns.dk/announce
 http://kinorun.com/announce
@@ -16,9 +17,9 @@ http://mediaclub.tv/announce
 http://mkfs.ru/announce
 http://nagios.tks.sumy.ua/announce
 http://open.demonii.si/announce
+http://open.trackerlist.xyz/announce
 http://opentracker.xyz/announce
 http://retracker.gorcomnet.ru/announce
-http://retracker.joxnet.ru/announce
 http://retracker.x2k.ru/announce
 http://siambit.com/announce
 http://siambit.org/announce
@@ -59,6 +60,7 @@ https://bt.beatrice-raws.org/announce
 https://ht.therarbg.to/announce
 https://retracker.gorcomnet.ru/announce
 https://retracker.x2k.ru/announce
+https://retracker2.x2k.ru/announce
 https://t.213891.xyz/announce
 https://t.audiences.me/announce
 https://t.btcland.xyz/announce
@@ -71,6 +73,8 @@ https://tr.torland.ga/announce
 https://tr2.trkb.ru/announce
 https://tracker-zhuqiy.dgj055.icu/announce
 https://tracker.augrains.com/announce
+https://tracker.cangku.moe/announce
+https://tracker.hdarea.club/announce
 https://tracker.keepfrds.com/announce
 https://tracker.monikadesign.uk/announce
 https://tracker.publictorrent.net/announce
@@ -907,7 +911,6 @@ udp://anzix.net:6969/announce
 udp://api.clasificadosrapidos.com:53/announce
 udp://app.icon256.com:8000/announce
 udp://archive.torrentonline.cc:42069/announce
-udp://astrr.ru:6969/announce
 udp://astrra.space:6969/announce
 udp://auratorrent.pl:8089/announce
 udp://axell24.ru:6969/announce
