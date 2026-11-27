@@ -5,14 +5,14 @@ http://135.125.198.235:2710/announce
 http://190.22.34.84:1337/announce
 http://210.61.187.208/announce
 http://216.144.239.90:6969/announce
-http://93.88.129.16/announce
+http://34.66.57.33:2710/announce
 http://bluebird-hd.org/announce
 http://bt.beatrice-raws.org/announce
-http://bt.nnm-club.info:2710/announce
 http://bt02.nnm-club.cc:2710/announce
+http://bt02.nnm-club.info:2710/announce
+http://btracker.top:11451/announce
 http://i.bandito.org/announce
 http://irrenhaus.dyndns.dk/announce
-http://kinorun.com/announce
 http://mediaclub.tv/announce
 http://mkfs.ru/announce
 http://nagios.tks.sumy.ua/announce
@@ -20,12 +20,14 @@ http://open.demonii.si/announce
 http://opentracker.xyz/announce
 http://retracker.gorcomnet.ru/announce
 http://retracker.x2k.ru/announce
+http://shubt.net:2710/announce
 http://siambit.com/announce
 http://siambit.org/announce
 http://t-backup.213891.xyz/announce
 http://t.nyaatracker.com/announce
 http://torrent.mp3quran.net/announce
 http://torrent.ubuntu.com:6969/announce
+http://torrentsmd.me:8080/announce
 http://tr.nyacat.pw/announce
 http://tracker-udp.anirena.com/announce
 http://tracker-zhuqiy.dgj055.icu/announce
@@ -1003,6 +1005,7 @@ udp://freedomalternative.com:6969/announce
 udp://ftp.pet:2710/announce
 udp://globalwave.no-ip.org:6969/announce
 udp://glotorrents.pw:6969/announce
+udp://hidden.torrentonline.cc:42069/announce
 udp://hificode.in:6969/announce
 udp://home.kray.pw:6969/announce
 udp://home.yxgz.club:6969/announce
@@ -1253,6 +1256,7 @@ udp://tracker.orsvarn.com:6969/announce
 udp://tracker.pcfreetime.com:6969/announce
 udp://tracker.peerfect.org:6969/announce
 udp://tracker.picotorrent.one:6969/announce
+udp://tracker.pimpmyworld.to:6969/announce
 udp://tracker.playground.ru:6969/announce
 udp://tracker.plx.im:6969/announce
 udp://tracker.prq.to:80/announce
@@ -1290,12 +1294,12 @@ udp://tracker.waaa.moe:6969/announce
 udp://tracker.wepzone.net:6969/announce
 udp://tracker.wildkat.net:6969/announce
 udp://tracker.willy.pro:6969/announce
-udp://tracker.x6c.co:6969/announce
 udp://tracker.xiaoduola.xyz:6969/announce
 udp://tracker.ygsub.com:6969/announce
 udp://tracker.yoshi210.com:6969/announce
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 udp://tracker.zaluan.xyz:6969/announce
+udp://tracker.zer0day.to:1337/announce
 udp://tracker.zum.bi:6969/announce
 udp://tracker0.ufibox.com:6969/announce
 udp://tracker1.bt.moack.co.kr:80/announce
@@ -1350,3 +1354,4 @@ udp://yuptracker.gaijinent.com:27022/announce
 udp://z.crazyhd.com:2710/announce
 udp://zephir.monocul.us:6969/announce
 udp://zer0day.ch:1337/announce
+udp://zer0day.to:1337/announce
